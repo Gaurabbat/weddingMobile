@@ -1,0 +1,7 @@
+{
+  "name": "weddingMobile",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "ionic-angular"
+}
